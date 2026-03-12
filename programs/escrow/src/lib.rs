@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::system_program;
 
-declare_id!("11111111111111111111111111111111"); // replaced on deploy
+declare_id!("AJB7Jj5MCeGjv9NgeAeZzKBYaHR4jsL8XZW2Dxz8hZdf"); // replaced on deploy
 
 #[program]
 pub mod escrow {
